@@ -1,0 +1,63 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore, Gemfile. Gemfile.lock]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Still Friends - Who Deleted Me on Facebook"
+keywords:    "defriended, free, ios, app, facebook, unfriended, unfriended, has, missed, lost, list, deleted, find, manager, finder, missing, birds, like, track, tracker, check, monitor, on, out, a, deleted, removed, friend, friends, leaked, eliminated, compare, unfriend, detector, show, erased, sadly, still"
+description: "Whoever deletes you on Facebook, we will find them! Download it FREE!"
+google_analytics_key: UA-25289053-6 ## put YOUR key here to enable tracking! (blank to disable)
+appstore_link: "https://itunes.apple.com/app/still-friends/id1122583310?ct=web&mt=8&at=1000lom5"
+
+url: https://friends.bobgoo.com
+enforce_ssl: friends.bobgoo.com
+
+twitter:
+    username: "@StillFriendsApp"
+
+facebook:
+  app_id: 1004815779627356
+
+defaults:
+  -
+    scope:
+        path: ""
+    values:
+        image:
+            #path: /img/Icon-Rounded-256.png
+            twitter: /img/FBBanner.png
+            facebook: /img/FBBanner.png
+            height: 630
+            width: 1200
+
+  
+### template colors, used site-wide via css ###
+colors:
+  red:       '#8E2223'      
+  black:     '#111111'
+  white:     '#f8f8f8'
+  mainblue:  '#338FFC'
+  faceblue:  '#3B5998'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  gtgold:    '#E0A01F'
+  gtnavy:    '#01192F'
+  gtmetallic: '#A08452'
+
+kramdown:
+  auto_ids:  false
+
+gems:
+  - jekyll-seo-tag

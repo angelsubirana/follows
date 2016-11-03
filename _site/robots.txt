@@ -2,4 +2,4 @@ User-Agent: *
 Disallow: 
 Disallow: /privacy.html
 
-Sitemap: https://friends.bobgoo.com/sitemap.xml
+Sitemap: https://follows.bobgoo.com/sitemap.xml

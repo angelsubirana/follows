@@ -41,7 +41,7 @@ defaults:
   
 ### template colors, used site-wide via css ###
 colors:
-  red:       '#8E2223'      
+  red:       '#5A5151'      
   black:     '#111111'
   white:     '#f8f8f8'
   mainblue:  '#338FFC'

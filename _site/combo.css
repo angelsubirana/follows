@@ -534,10 +534,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-login { border-color: grey; }
-  #login { background-color: grey !important; color: #f8f8f8; }
+  nav .p-login { border-color: #8E2223; }
+  #login { background-color: #8E2223 !important; color: #f8f8f8; }
   #login a { color: #f8f8f8; }
-  #login .sectiondivider { color: grey; }
+  #login .sectiondivider { color: #8E2223; }
 
   
   

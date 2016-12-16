@@ -534,6 +534,22 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-login { border-color: grey; }
+  #login { background-color: grey !important; color: #f8f8f8; }
+  #login a { color: #f8f8f8; }
+  #login .sectiondivider { color: grey; }
+
+  
+  
+  
+  nav .p-htindex { border-color: #f8f8f8; }
+  #htindex { background-color: #f8f8f8 !important; color: #111111; }
+  #htindex a { color: #111111; }
+  #htindex .sectiondivider { color: #f8f8f8; }
+
+  
+  
+  
   nav .p-reviews { border-color: #338FFC; }
   #reviews { background-color: #338FFC !important; color: #f8f8f8; }
   #reviews a { color: #f8f8f8; }

@@ -13,9 +13,11 @@ The "No Twitter Accounts" message appears when no Twitter accounts are set up in
 
 In order to add your Twitter account follow the next instructions: 
 
-1.- Go to Settings app and then to the Twitter section.
+1.- Go to the Settings app and then to the Twitter section.
 
 <img src="/img/howto/how-to-login-s0_framed.png" alt="" title="" width="300" />
+
+<img src="/img/howto/how-to-login-s0B_framed.png" alt="" title="" width="300" />
 
 2.- Once in Twitter settings, fill your Twitter username and password and finally tap "Sign in".
 
@@ -25,4 +27,4 @@ In order to add your Twitter account follow the next instructions:
 
 <img src="/img/howto/how-to-login-s1_framed.png" alt="" title="" width="300" />
 
-4.- Go back to Still Follows and enjoy!
+4.- Go back to Still Follows and enjoy our app!

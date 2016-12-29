@@ -542,6 +542,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-add-account { border-color: #5A5151; }
+  #add-account { background-color: #5A5151 !important; color: #f8f8f8; }
+  #add-account a { color: #f8f8f8; }
+  #add-account .sectiondivider { color: #5A5151; }
+
+  
+  
+  
   nav .p-htindex { border-color: #f8f8f8; }
   #htindex { background-color: #f8f8f8 !important; color: #111111; }
   #htindex a { color: #111111; }

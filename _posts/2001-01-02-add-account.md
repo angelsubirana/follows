@@ -1,0 +1,28 @@
+---
+title: "No Twitter account"
+bg: red
+color: white
+howto: y
+---
+
+# No Twitter Accounts
+
+The "No Twitter Accounts" message appears when no Twitter accounts are set up in your iOS device. The message looks like this:
+
+<img src="/img/howto/how-to-login-s5_framed.png" alt="" title="" width="300" />
+
+In order to add your Twitter account follow the next instructions: 
+
+1.- Go to Settings app and then to the Twitter section.
+
+<img src="/img/howto/how-to-login-s0_framed.png" alt="" title="" width="300" />
+
+2.- Once in Twitter settings, fill your Twitter username and password and finally tap "Sign in".
+
+<img src="/img/howto/how-to-login-s4_framed.png" alt="" title="" width="300" />
+
+3.- Now you have added your Twitter account to your iOS device. 
+
+<img src="/img/howto/how-to-login-s1_framed.png" alt="" title="" width="300" />
+
+4.- Go back to Still Follows and enjoy!

@@ -5,7 +5,7 @@ color: white
 howto: y
 ---
 
-# Access or authorization not granted
+# Access or authorization not granted errors
 
 You have got the following message:
 

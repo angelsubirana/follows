@@ -534,6 +534,22 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-credentials { border-color: #5A5151; }
+  #credentials { background-color: #5A5151 !important; color: #f8f8f8; }
+  #credentials a { color: #f8f8f8; }
+  #credentials .sectiondivider { color: #5A5151; }
+
+  
+  
+  
+  nav .p-notgranted { border-color: #5A5151; }
+  #notgranted { background-color: #5A5151 !important; color: #f8f8f8; }
+  #notgranted a { color: #f8f8f8; }
+  #notgranted .sectiondivider { color: #5A5151; }
+
+  
+  
+  
   nav .p-login { border-color: #5A5151; }
   #login { background-color: #5A5151 !important; color: #f8f8f8; }
   #login a { color: #f8f8f8; }

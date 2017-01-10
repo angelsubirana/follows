@@ -5,13 +5,13 @@ color: white
 howto: y
 ---
 
-# Access or authorization not granted errors
+# Authorization required errors
 
 You have got the following message:
 
 - "Authorization required"
 
-This happens if you have not granted the app access to your iOS Twitter accounts. In order to correct it follow this step by step guide:
+This happens if when have been asked you not granted the app access to your iOS Twitter accounts. In order to correct it follow this step by step guide:
 
 1.- Go to Settings app and then to the Twitter section.
 

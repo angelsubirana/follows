@@ -7,7 +7,7 @@ howto: y
 
 # Expired credentials errors
 
-The most common Twitter log in error messages are:
+You have got one of the following messages:
 
 - "Invalid or expired token"
 - "Your credentials do not allow access to this resource"

@@ -542,6 +542,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-add { border-color: #5A5151; }
+  #add { background-color: #5A5151 !important; color: #f8f8f8; }
+  #add a { color: #f8f8f8; }
+  #add .sectiondivider { color: #5A5151; }
+
+  
+  
+  
   nav .p-notgranted { border-color: #5A5151; }
   #notgranted { background-color: #5A5151 !important; color: #f8f8f8; }
   #notgranted a { color: #f8f8f8; }
@@ -554,14 +562,6 @@ html { box-sizing: border-box; }
   #login { background-color: #5A5151 !important; color: #f8f8f8; }
   #login a { color: #f8f8f8; }
   #login .sectiondivider { color: #5A5151; }
-
-  
-  
-  
-  nav .p-add { border-color: #5A5151; }
-  #add { background-color: #5A5151 !important; color: #f8f8f8; }
-  #add a { color: #f8f8f8; }
-  #add .sectiondivider { color: #5A5151; }
 
   
   

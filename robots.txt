@@ -1,6 +1,6 @@
 User-Agent: *
 Disallow: 
 Disallow: /privacy.html
-Disallow: /tos.html
+Disallow: /tos.htm
 
 Sitemap: https://follows.bobgoo.com/sitemap.xml

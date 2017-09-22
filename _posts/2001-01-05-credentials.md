@@ -7,6 +7,8 @@ howto: y
 
 # Expired credentials errors
 
+**_IMPORTANT:_** *If you are using iOS 11 or higher, make sure the app has been updated to version 1.17 or higher.*
+
 You have got one of the following messages:
 
 - "Invalid or expired token"

@@ -7,6 +7,8 @@ howto: y
 
 # Authorization required errors
 
+**_IMPORTANT:_** *If you are using iOS 11 or higher, make sure the app has been updated to version 1.17 or higher.*
+
 You have got the following message:
 
 - "Authorization required"

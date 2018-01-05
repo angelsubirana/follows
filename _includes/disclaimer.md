@@ -1,5 +1,5 @@
 <br />
-<div id="ppHeader" style="font-family: verdana; font-size: 21pt; margin: 0px auto;">About auto-renew subscriptions</div>
+<div id="ppHeader" style="font-family: verdana; font-size: 21pt; margin: 0px auto;">About subscriptions</div>
 <br />
 ■ Payment will be charged to iTunes Account at confirmation of purchase.<br />
 ■ Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.<br />

@@ -2,7 +2,7 @@
 
 All Rights Reserved. © 2016 [Angel Subirana](https://www.bobgoo.com)
 
-<a href="https://twitter.com/StillFollows"><span class="fa-stack fa-lg">
+<a href="https://twitter.com/StillFollowers"><span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
 <i class="fa fa-twitter fa-stack-1x" style="color: black;"></i>
 </span></a>

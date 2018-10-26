@@ -56,5 +56,5 @@ colors:
 kramdown:
   auto_ids:  false
 
-gems:
+plugins:
   - jekyll-seo-tag
